@@ -1,0 +1,1 @@
+## Tic Tac Toe game developed with vainilla JS, HTML AND CSS.
